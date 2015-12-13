@@ -1,0 +1,7 @@
+*.swp
+*.markdown
+*.zip
+note.txt
+tags
+.hg*
+tmp/*
